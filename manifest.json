@@ -1,6 +1,6 @@
 {
-    "name": "Mi primera PWA",
-    "short_name": "Mi primera PWA",
+    "name": "PWA CLOCK",
+    "short_name": "CLOCK",
     "theme_color": "#ffe08a",
     "background_color": "#ffe08a",
     "display": "standalone",
